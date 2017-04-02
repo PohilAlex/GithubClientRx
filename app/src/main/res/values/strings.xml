@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GithubClient</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="search_query">Search query</string>
+</resources>
